@@ -1,0 +1,17 @@
+# Impex Studios
+
+> Toronto-based digital marketing and AI automation agency serving small to large businesses across Canada and the United States.
+
+Contact: +1 (289) 608-9883 · contact@impexstudios.com · Mon–Fri 9am–6pm ET
+
+## Services
+- [Web design & development](https://impexstudios.com/services/web-design/): custom, fast websites. Landing page $499, 5-page site $999, 10-page business site $1,499, e-commerce $1,999. Fixed pricing, 50/50 payment.
+- [SEO, local SEO & AI search](https://impexstudios.com/services/seo/): technical SEO, Google Business Profile, schema, content, generative engine optimization.
+- [AI phone agents & automation](https://impexstudios.com/services/ai-automation/): AI receptionists, chatbots, CRM and n8n/Make workflow automation.
+- [Social media marketing](https://impexstudios.com/services/social-media/): content, design, short-form video, community management, paid social.
+
+## Key pages
+- [Pricing](https://impexstudios.com/pricing/)
+- [Free growth plan](https://impexstudios.com/free-growth-plan/)
+- [Canada](https://impexstudios.com/canada/) · [United States](https://impexstudios.com/usa/)
+- [About](https://impexstudios.com/about/) · [Contact](https://impexstudios.com/contact/)
